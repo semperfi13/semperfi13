@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
+![PHP](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54) 
+![Javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
