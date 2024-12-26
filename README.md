@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m Adamou NIKIEMA
 
+[![wakatime](https://wakatime.com/badge/user/018cd4cd-43bc-4cbd-a399-a0c0b31e0331.svg)](https://wakatime.com/@018cd4cd-43bc-4cbd-a399-a0c0b31e0331)
+
 <!--
 **semperfi13/semperfi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +19,6 @@ Here are some ideas to get you started:
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/018cd4cd-43bc-4cbd-a399-a0c0b31e0331.svg)](https://wakatime.com/@018cd4cd-43bc-4cbd-a399-a0c0b31e0331)
 
 ![SEMPERFI GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&hide=contribs,prs)
 
