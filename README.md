@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
-![PHP](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54) 
-![Javascript](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 # 📊 GitHub Stats:
 
