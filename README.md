@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![SEMPERFI GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&hide_progress=true)
+![SEMPERFI GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=pie)](https://github.com/semperfi13/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
