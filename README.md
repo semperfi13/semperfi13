@@ -3,9 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/018cd4cd-43bc-4cbd-a399-a0c0b31e0331.svg)](https://wakatime.com/@018cd4cd-43bc-4cbd-a399-a0c0b31e0331)
 [![github](https://img.shields.io/github/followers/semperfi13?logo=github&style=plastic)](https://github.com/semperfi13?tab=followers)
 [![X](https://img.shields.io/twitter/follow/SEMPERFI?style=plastic&logo=x&labelColor=595959&color=595959)](https://x.com/semperfi_13)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
-</a>
+
 <!--
 **semperfi13/semperfi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +23,6 @@ Here are some ideas to get you started:
 
 ![SEMPERFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&show=contribs,prs,prs_merged) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=compact&langs_count=10)](https://github.com/semperfi13/github-readme-stats)
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
+</a>
