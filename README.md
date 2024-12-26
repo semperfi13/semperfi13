@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semperfi13)](https://github.com/semperfi13/github-readme-stats)
 
-![SEMPERFI GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=pie&langs_count=10)](https://github.com/semperfi13/github-readme-stats)
+![SEMPERFI GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&hide=contribs,prs) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=pie&langs_count=10)](https://github.com/semperfi13/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
