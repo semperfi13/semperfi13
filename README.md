@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=semperfi13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=semperfi13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=semperfi13&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-![SEMPERFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&show=contribs,prs,prs_merged) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=compact&langs_count=10)](https://github.com/semperfi13/github-readme-stats)
+<!--
+![SEMPERFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&show=contribs,prs,prs_merged) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=compact&langs_count=10)](https://github.com/semperfi13/github-readme-stats)-->
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
