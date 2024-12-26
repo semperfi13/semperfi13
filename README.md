@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=semperfi13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=contribs,prs,prs_merged)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=11)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 <!--
 ![SEMPERFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&show=contribs,prs,prs_merged) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=compact&langs_count=10)](https://github.com/semperfi13/github-readme-stats)-->
