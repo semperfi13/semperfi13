@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 # 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -35,23 +36,12 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-## 📊 Stats GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_NOM_UTILISATEUR&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_UTILISATEUR&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-Merci de visiter mon profil ! N’hésitez pas à explorer mes projets et à me contacter pour des collaborations. 🚀
-
-
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=semperfi13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=contribs,prs,prs_merged)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
-<!--
-![SEMPERFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&show=contribs,prs,prs_merged) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=compact&langs_count=10)](https://github.com/semperfi13/github-readme-stats)-->
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
