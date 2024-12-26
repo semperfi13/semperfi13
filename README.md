@@ -4,6 +4,12 @@
 [![github](https://img.shields.io/github/followers/semperfi13?logo=github&style=plastic)](https://github.com/semperfi13?tab=followers)
 [![X](https://img.shields.io/twitter/follow/SEMPERFI?style=plastic&logo=x&labelColor=595959&color=595959)](https://x.com/semperfi_13)
 
+
+### Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/semperfi13/count.svg" alt ="Loading">
+<br />
+
 <!--
 **semperfi13/semperfi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
