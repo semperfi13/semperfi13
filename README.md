@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamounikiema)](https://github-readme-stats.vercel.app/api/wakatime?username=adamounikiema)
 -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamounikiema)](https://github-readme-stats.vercel.app/api/wakatime?username=adamounikiema)
 
-![SEMPERFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=compact&langs_count=10)](https://github.com/semperfi13/github-readme-stats)
+![SEMPERFI's GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&hide=contribs,prs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&layout=compact&langs_count=10)](https://github.com/semperfi13/github-readme-stats)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
