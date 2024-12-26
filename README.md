@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semperfi13)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?semperfi13)](https://github.com/anuraghazra/github-readme-stats)
 
 ![SEMPERFI GitHub stats](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&hide=contribs,prs)
 
