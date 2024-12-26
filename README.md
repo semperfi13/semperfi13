@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m Adamou NIKIEMA
 
 [![wakatime](https://wakatime.com/badge/user/018cd4cd-43bc-4cbd-a399-a0c0b31e0331.svg)](https://wakatime.com/@018cd4cd-43bc-4cbd-a399-a0c0b31e0331)
-
+[![github](https://img.shields.io/github/followers/semperfi13?logo=github&style=plastic)](https://github.com/semperfi13?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/semperfi13?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/semperfi_13)
 <!--
 **semperfi13/semperfi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
