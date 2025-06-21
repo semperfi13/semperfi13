@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=semperfi13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=contribs,prs,prs_merged)
+![](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=contribs,prs,prs_merged)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 # 👤 Visitors Count
