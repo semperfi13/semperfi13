@@ -54,12 +54,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <img align="left" src = "https://profile-counter.glitch.me/semperfi13/count.svg" alt ="Loading">
 <br />
-
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
-  </a>
-
-
 <br />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
