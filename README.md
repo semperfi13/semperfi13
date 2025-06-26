@@ -55,5 +55,9 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <img align="left" src = "https://profile-counter.glitch.me/semperfi13/count.svg" alt ="Loading">
 <br />
 <br />
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=@semperfi_13&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
+
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed">
+<img src="https://gtce.itsvg.in/api?username=@semperfi_13&theme=dracula&response=true&border=true&time=true&icon=default"/>
+</a>
+<br /><br />
 ![Jokes Card](https://readme-jokes.vercel.app/api)
