@@ -41,21 +41,14 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Metrics:
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/semperfi13/semperfi13/main/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/semperfi13/semperfi13/main/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/semperfi13/semperfi13/main/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
-
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-
-# 📊 GitHub Stats:
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=semperfi13&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=semperfi13&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show=contribs,prs,prs_merged)
 <!--
 [![Semperfi13's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@adamounikiema&layout=compact)](https://github.com/semperfi13/github-readme-stats)
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=semperfi13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 # 👤 Visitors Count
 
