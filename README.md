@@ -59,5 +59,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
     <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
   </a>
 -->
-
+<br />
 ![Jokes Card](https://readme-jokes.vercel.app/api)
