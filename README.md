@@ -54,6 +54,5 @@ Here are some ideas to get you started:
     <img src="https://visitcount.itsvg.in/api?id=semperfi13&label=Profile%20Views&pretty=false" />
   </a>
 -->
-<!--
-[![Semperfi13's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adamounikiema&layout=compact)](https://github.com/semperfi13/github-readme-stats)
--->
+
+[![Semperfi13's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@adamounikiema&layout=compact)](https://github.com/semperfi13/github-readme-stats)
