@@ -60,5 +60,4 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
   </a>
 -->
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
