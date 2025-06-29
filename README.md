@@ -7,8 +7,6 @@
 
 # 👤 About me:
 
-## About Me
-
 I am a **passionate** 💡 software engineer driven by the desire to blend creativity with technology. My expertise lies in crafting **exceptional user experiences** through innovative web and mobile development. My ultimate goal is to create **impactful digital solutions** that empower communities, particularly in Africa 🌍, by expanding access to knowledge, education, and opportunity.
 
 # 💻 Tech Stack:
