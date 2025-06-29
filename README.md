@@ -7,6 +7,7 @@
 
 # 👤 About me:
 
+As a passionate individual driven by the desire to blend creativity with technology, I aspire to become a renowned and successful software engineer. My focus lies in crafting exceptional user experiences and designing innovative solutions, particularly in web and mobile development, that turn ideas into digital reality. Ultimately, my goal is to create impactful digital solutions that empower African communities with greater access to knowledge, education, and opportunity.
 
 # 💻 Tech Stack:
 
