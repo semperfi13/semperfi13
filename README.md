@@ -47,7 +47,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
   <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/semperfi_13">
-  <img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/>
+  <img src="https://img.icons8.com/color/32/000000/x-squared.png" alt="x"/>
 </a>
 
 # 👤 Visitors Count
