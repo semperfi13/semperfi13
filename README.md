@@ -38,6 +38,8 @@ I am a **passionate** 💡 software engineer driven by the desire to blend creat
 
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
+# 📬 Let's Connect!
+
 # 👤 Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/semperfi13/count.svg" alt ="Loading">
