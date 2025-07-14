@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adamou NIKIEMA
+# 👋 Hi, I’m Adamou NIKIEMA 
 
 [![wakatime](https://wakatime.com/badge/user/018cd4cd-43bc-4cbd-a399-a0c0b31e0331.svg)](https://wakatime.com/@018cd4cd-43bc-4cbd-a399-a0c0b31e0331)
 [![github](https://img.shields.io/github/followers/semperfi13?logo=github&style=plastic)](https://github.com/semperfi13?tab=followers)
