@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/twitter/follow/SEMPERFI?style=plastic&logo=x&labelColor=595959&color=595959)](https://x.com/semperfi_13)
 
 
-# 👤 About me: 
+# 👤 About me:
 
 I am a **passionate** 💡 software engineer driven by the desire to blend creativity with technology. My expertise lies in crafting **exceptional user experiences** through innovative web and mobile development. My ultimate goal is to create **impactful digital solutions** that empower communities, particularly in Africa 🌍, by expanding access to knowledge, education, and opportunity.
 
